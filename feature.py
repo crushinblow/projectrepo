@@ -1,7 +1,5 @@
-// feature.py file
-def add_numbers(a, b) {
-    return a + b;
-    
-}
+// feature.js file
+def add_numbers(a, b):
+    return a + b
 
-console.log(addNumbers(4, 5));  // save file and run , should see 9
+print(add_numbers(4, 5))  // save file and run , should see 9
